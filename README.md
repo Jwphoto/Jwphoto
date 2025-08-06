@@ -23,12 +23,9 @@
 
 - **Website:** [jwsnapshot.com](https://jwsnapshot.com)
 
----
+**Social Media:**
+- [Instagram](https://instagram.com/jwsnapshot1)
 
-<!-- Add your social links below if you want! -->
-<!-- Example:
-[Instagram](https://instagram.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourusername)
--->
 
 ---
 
